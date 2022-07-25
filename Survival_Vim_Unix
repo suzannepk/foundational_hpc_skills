@@ -1,0 +1,35 @@
+# Purpose
+
+This challenge is going to show you the very basic Unix and Vim skills you need to work on the Hands-On HPC Challenges. 
+If you have any experience working with Vim or Unix, you can skip this challenge.
+
+
+
+# Working in a Unix System
+
+In order to accomplish tasks in any high-performance computing system, you need to know how to navigate
+through and issue commands in a Unix or Linux operating system. In these operating systems, all
+interactions you have with the computer will be done via the issuing of text based commands, as opposed
+to clicking on graphical images in order to augment files or run programs.
+
+
+In this section you will learn about the command line and how to list files in your current directory, make directories, change from one directory to another,  
+and copy files and remove files.
+
+
+## The command line
+
+The command line (also called a command prompt) is a text interface for a computer. It is the place 
+in which you type the commands that will be interpreted and executed by the computer when you enter 
+them. From the command line, you can run programs and navigate through files and folders just like 
+you would with Windows Explorer on Windows or Finder on MacOS. 
+
+Here is an example of a command line prompt:
+
+```
+[suzanne@login1.ascent ~]$
+```
+The prompt here is the "$". Your commands will be typed after it. 
+
+The system in this example has been set up so the user's userID and the name of the login node and system are displayed in brackets before the prompt.
+Not all systems will have this feature. Some will just start with the "$"
