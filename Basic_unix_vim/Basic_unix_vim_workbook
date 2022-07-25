@@ -31,6 +31,17 @@ Here is an example of a command line prompt:
 ```
 The prompt here is the "$". Your commands will be typed after it. 
 
-The system in this example has been set up so the user's userID and the name of the login node and system are d
-isplayed in brackets before the prompt.
-Not all systems will have this feature. Some will just start with the "$"
+The system in this example has been set up so the user's userID and the name of the login node and system are
+ displayed in brackets before the prompt.
+Not all systems will have this feature. Some will just start with the "$".
+
+## Change Directory
+
+Let's start by learning how to make a directory and then naviage to it and back to your starting place. 
+
+
+
+
+
+
+
