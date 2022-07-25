@@ -13,8 +13,8 @@ interactions you have with the computer will be done via the issuing of text bas
 to clicking on graphical images in order to augment files or run programs.
 
 
-In this section you will learn about the command line and how to list files in your current directory, make directories, change from one directory to another,  
-and copy files and remove files.
+In this section you will learn about the command line and how to list files in your current directory, 
+make directories, change from one directory to another, and copy and remove files.
 
 
 ## The command line
@@ -31,5 +31,6 @@ Here is an example of a command line prompt:
 ```
 The prompt here is the "$". Your commands will be typed after it. 
 
-The system in this example has been set up so the user's userID and the name of the login node and system are displayed in brackets before the prompt.
+The system in this example has been set up so the user's userID and the name of the login node and system are d
+isplayed in brackets before the prompt.
 Not all systems will have this feature. Some will just start with the "$"
