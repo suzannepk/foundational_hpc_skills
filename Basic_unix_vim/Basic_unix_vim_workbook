@@ -1,7 +1,7 @@
 # Purpose
 
 This challenge is going to show you the very basic Unix and Vim skills you need to work on the Hands-On HPC Challenges. 
-If you have any experience working with Vim or Unix, you can skip this challenge.
+If you have some experience with Vim or Unix, you can skip this challenge.
 
 
 
@@ -35,9 +35,14 @@ The system in this example has been set up so the user's userID and the name of 
  displayed in brackets before the prompt.
 Not all systems will have this feature. Some will just start with the "$".
 
-## Change Directory
+## Work with Directories
 
 Let's start by learning how to make a directory and then naviage to it and back to your starting place. 
+
+You can navigate the filesysetm with the Change Diectory command followed by the path to the dirtory (folder) you want to access. 
+
+```
+cd pathe/to/files/ 
 
 
 
