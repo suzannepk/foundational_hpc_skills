@@ -3,6 +3,10 @@
 This challenge is going to show you the very basic Unix and Vim skills you need to work on the Hands-On HPC Challenges. 
 If you have some experience with Vim or Unix, you can skip this challenge.
 
+  Notes: cd, ls, pwd 
+  
+  Notes: Open a vim file, put in in insert mode, write something, delete something, take it out of edit mode. save and close. 
+
 
 
 # Working in a Unix System
